@@ -23,9 +23,9 @@
 - Код программы
 - Код тестов
 - Отчет pylint/Checkstyle
+
+  - ![img](./Img/sonarLint.jpg)
+  
 - Отчет о покрытии тестами
 - Объяснение того, какие сценарии покрыты тестами и почему вы выбрали именно эти сценарии.
 
-pip install coverage
-coverage run test_new_task.py
-coverage report -m
